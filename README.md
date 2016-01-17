@@ -1,5 +1,7 @@
 # tensorflow
 Learning Machine Learning ( using TensorFlow )
 
-https://www.tensorflow.org
+#### Thanks to the following resources:
 
+https://www.tensorflow.org
+https://github.com/aymericdamien/TensorFlow-Examples/
