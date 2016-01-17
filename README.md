@@ -1,4 +1,4 @@
-# ML Implmenetation using tensorflow
+# ML algorithms Implemenetation using tensorflow
 Learning Machine Learning ( using TensorFlow )
 
 #### Thanks to the following resources:
